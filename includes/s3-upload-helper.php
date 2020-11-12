@@ -24,8 +24,8 @@ if(isset($_POST['s3-submit'])){
             array('region'=>'us-east-1',
             'version'=>'latest',
             'credentials'=> array(
-                'key'=> "AKIA5QNMQC3C5TA6QTCV",
-                'secret'=> "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"
+                'key'=> "",
+                'secret'=> ""
             ))
         );
         $result = $s3Client->putObject([
