@@ -1,7 +1,7 @@
 button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 30px;
-    width: 75px;
+    width: 125px;
     background-color: darkgreen;
     font-weight: bold;
 }
@@ -18,4 +18,20 @@ img {
 
 .disclaimers {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    padding: 300px;
+    padding-top: 0px;
+}
+
+.row {
+    justify-content: center;
+    background-color: steelblue;
+}
+
+.game {
+    margin: 5px;
+}
+
+.disclaimers {
+    background-color: forestgreen;
 }
