@@ -4,8 +4,8 @@ require 'includes/header.php'
 <main>
 <link rel="stylesheet" href="css/index.css">
     <title>Video Game Warehouse: Find video games at a store near you</title>
-    <!-- <button class="account-button">Login</button>
-    <button class="account-button">Sign Up</button> -->
+    <button class="account-button">Login</button>
+    <button class="account-button">Sign Up</button>
     <h1 style="font-family: Impact, Charcoal, sans-serif; justify-content: center;">Welcome to Video Game Warehouse</h1>
     <p style=" font-family: Verdana, Geneva, Tahoma, sans-serif">At Video Game Warehouse, you can find a variety of
         games that are available in our many store locations. Below
